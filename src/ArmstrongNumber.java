@@ -1,5 +1,3 @@
-package amit;
-
 import java.util.Scanner;
 
 public class ArmstrongNumber {
